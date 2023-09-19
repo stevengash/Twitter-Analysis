@@ -1,3 +1,5 @@
+![image](https://github.com/stevengash/Twitter-Analysis/assets/99188129/43ea3f1c-b054-4799-bcb7-654a0d1b9d2a)
+![image](https://github.com/stevengash/Twitter-Analysis/assets/99188129/13810381-9720-4231-9198-58f115408527)
 
 The dashboard contains:
 
